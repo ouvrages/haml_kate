@@ -1,0 +1,3 @@
+Either copy the downloaded XML file to ~/.kde/share/apps/katepart/syntax/ 
+or to the global $(PREFIX)/share/apps/katepart/syntax/ directory 
+or use Settings->Configure Kate->Highlighting->Download...
