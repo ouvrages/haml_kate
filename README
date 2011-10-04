@@ -3,6 +3,6 @@ based on http://haml-lang.com/editors.html
 
 To install in you home:
   mkdir -p ~/.kde/share/apps/katepart/syntax/
-  curl https://github.com/ouvrages/haml_kate/raw/master/haml.xml -o ~/.kde/share/apps/katepart/syntax/haml.xml
+  curl https://raw.github.com/ouvrages/haml_kate/master/haml.xml -o ~/.kde/share/apps/katepart/syntax/haml.xml
 
 Then restart Kate and save your already open HAML files.
