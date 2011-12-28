@@ -5,4 +5,8 @@ To install in you home:
   mkdir -p ~/.kde/share/apps/katepart/syntax/
   curl -L https://raw.github.com/ouvrages/haml_kate/master/haml.xml -o ~/.kde/share/apps/katepart/syntax/haml.xml
 
+For SASS and SCSS:
+  mkdir -p ~/.kde/share/apps/katepart/syntax/
+  curl -L https://raw.github.com/ouvrages/haml_kate/master/scss.xml -o ~/.kde/share/apps/katepart/syntax/scss.xml
+
 Then restart Kate and save your already opened HAML files.
