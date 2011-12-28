@@ -5,4 +5,4 @@ To install in you home:
   mkdir -p ~/.kde/share/apps/katepart/syntax/
   curl -L https://raw.github.com/ouvrages/haml_kate/master/haml.xml -o ~/.kde/share/apps/katepart/syntax/haml.xml
 
-Then restart Kate and save your already open HAML files.
+Then restart Kate and save your already opened HAML files.
